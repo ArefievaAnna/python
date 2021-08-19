@@ -1,0 +1,6 @@
+English: 100 (lect), 50 (pract), 10 (lab)
+Math: 200 (lect), 200 (pract), 20 (lab)
+General knolige: 150 (lect)
+Chemestry: 120 (lect), 50 (lab)
+Physics:100 (lect), 50 (pract), 35 (lab)
+Literature: 100 (lect)
